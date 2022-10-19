@@ -1,0 +1,35 @@
+*{
+    margin: 0px;
+    padding: 0;
+}
+
+.background{
+    text-align: center;
+
+}
+table{
+    margin: auto;
+    text-align: center;
+}
+
+
+.tablecard th{
+    font-size: 25px;
+    padding-left: 22px;
+    padding-right: 40px;
+  color: white;
+
+
+}
+
+
+
+.background{
+    background-image: url(./background.jpg);
+   
+        height:100vh;
+        color:black;
+        font-size:50px,;
+        background-size: cover;
+        background-repeat:no-repeat
+    }
